@@ -3,12 +3,13 @@
 It is going to give a chance to students to follow up there passion in the field of **Dance, Music, Drawing, Blogging,Poster Making,Essay Writing, Logo Making.**
 
 # HOW TO BECOME A STUDENT OF STEP TOWARD SUCCESS??
-<div class=“sqs-block button-block sqs-block-button”>
- <div class=“sqs-block-content”>
-   <div class=“sqs-block-button-container--center”>
-     <a href class=“sqs-block-button-element--large sqs-block-button-element”>
-       <i class=""></i> <span>Register as a student</span>
-     </a>
-   </div>
- </div>
-</div>
+<span class="fs-8">
+[Link button](http://example.com/){: .btn }
+</span>
+
+
+
+
+
+
+
