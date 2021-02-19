@@ -14,9 +14,9 @@ After clicking on [Register as a student](www.google.com) you will redirected to
  - Permission to take part in the competitions held by **StepTowardSuccess**. 
  - Get certificate From **StepTowardSuccess**.
  - The most active and intelligent students were invited to work with me as a team for my upcoming projects.
+ ## For what are you waiting, Register yourself now!!!
  
- ##  For What you are waiting, Register yourself now!!!!
- 
+
 
 
                              
