@@ -3,7 +3,7 @@
 It is going to give a chance to students to follow up there passion in the field of **Dance, Music, Drawing, Blogging,Poster Making,Essay Writing, Logo Making.**
 
 ## HOW TO BECOME A STUDENT OF STEPTOWARDSUCCESS?
-[Register as a student](www.google.com)
+[Register as a student](https://forms.gle/X8paWNBoDNRxdN2e9)
 
 
 After clicking on [Register as a student](www.google.com) you will redirected to the form you have to fill it, after that you have to agree the terms and conditions. After that click on Submit button and after submitting you got the google classroom link join it. Now you are a complete member of StepTowardSuccess.
