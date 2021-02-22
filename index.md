@@ -14,6 +14,11 @@ After clicking on [Register as a student](https://forms.gle/X8paWNBoDNRxdN2e9) y
  - Permission to take part in the competitions held by **StepTowardSuccess**. 
  - Get certificate From **StepTowardSuccess**.
  - The most active and intelligent students were invited to work with me as a team for my upcoming projects.
+## What you have to do?
+
+you have to just send videos, photos, and audios of your passion in the google classroom. those passion is of good level were upgraded and got chance to get success.
+
+## For what you are, waiting join today!!
   
  
 
